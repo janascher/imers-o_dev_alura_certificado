@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Esse projeto faz parte do curso [Imersão Dev Alura](https://imersao.dev/) que tem como objetivo ensinar conceitos de lógica de programação, JavaScript, HTML e CSS para quem tiver interesse em tecnologia e programação.
+Certificado com os projetos desenvolvidos no curso [Imersão Dev Alura](https://imersao.dev/), o qual tem como objetivo ensinar conceitos de lógica de programação, JavaScript, HTML e CSS para quem ainda não trabalhou na área e tem interesse em tecnologia e programação.
 
 ---
 
